@@ -1,5 +1,5 @@
 /* ------------------Discussions----------------------- 
----Contributors (Jeremy Lee, Kimia Kalantari, Marijke Van Hell) 
+--- Contributors (Jeremy Lee (Jeremylee0615) , Kimia Kalantari (kimiakalantari), Marijke Van Hell (marijkevanhell)) ---
   lists of cases
 1. searches letters (vertical cases & horizontal cases)
 2. reverse word cases 
